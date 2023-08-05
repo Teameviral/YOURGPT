@@ -13,7 +13,7 @@ jobs:
       uses: TeamEviral/huggingface-sync-action@v0.0.1
       with:
         github_repo_id: TeamEviral/YOURGPT
-        huggingface_repo_id: monra/YOURGPT
+        huggingface_repo_id: wbavishek/YOURGPT
         repo_type: space
         space_sdk: docker
         hf_token: ${{ secrets.HF_TOKEN }}
