@@ -24,7 +24,7 @@ msgstr "Nova Conversa"
 # This file is distributed under the same license as the FreeGPT WebUI
 # project.
 # Contributors:
-# Ramon - github.com/ramonvc/
+# Ramon - github.com/TeamEviral/
 # Your Name - github.com/yourprofile/
 # ...
 ```
@@ -58,7 +58,7 @@ msgstr "Nova Conversa"
 # This file is distributed under the same license as the FreeGPT WebUI
 # project.
 # Contributors:
-# Ramon - github.com/ramonvc/
+# Ramon - github.com/TeamEviral/
 # ...
 ```
   

@@ -8,7 +8,7 @@
 #
 msgid ""
 msgstr ""
-"Report-Msgid-Bugs-To: https://github.com/ramonvc/YOURGPT/issues"
+"Report-Msgid-Bugs-To: https://github.com/TeamEviral/YOURGPT/issues"
 "MIME-Version: 1.0\n"
 "Language: hi_IN\n"
 "Language-Team: hi_IN <LL@li.org>\n"
