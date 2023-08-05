@@ -1,9 +1,9 @@
 version: '3.5'
 
 services:
-  freegpt-webui:
-    image: freegpt-webui
-    container_name: freegpt-webui
+  YOURGPT:
+    image: YOURGPT
+    container_name: YOURGPT
     build:
       context: .
       dockerfile: Dockerfile

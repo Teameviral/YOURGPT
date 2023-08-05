@@ -14,7 +14,7 @@ I have created a new version of YOURGPT WebUI using the [ChimeraGPT API](https:/
 <br>
 <br>
 This free API allows you to use various AI chat models, including <strong>GPT-4, GPT-4-32k, llama-2 and more.</strong> <br>
-Check out the project here: [FreeGPT WebUI - Chimera Version](https://github.com/ramonvc/freegpt-webui/tree/chimeragpt-version).
+Check out the project here: [FreeGPT WebUI - Chimera Version](https://github.com/ramonvc/YOURGPT/tree/chimeragpt-version).
 
 
 

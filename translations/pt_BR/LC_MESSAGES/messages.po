@@ -7,7 +7,7 @@
 # ...
 msgid ""
 msgstr ""
-"Report-Msgid-Bugs-To: https://github.com/ramonvc/freegpt-webui/issues"
+"Report-Msgid-Bugs-To: https://github.com/ramonvc/YOURGPT/issues"
 "MIME-Version: 1.0\n"
 "Language: pt_BR\n"
 "Language-Team: pt_BR <LL@li.org>\n"
