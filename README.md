@@ -51,6 +51,14 @@ Please note the following:
    features in this repository at any time without prior notice. Users are responsible for regularly reviewing the
    content and any changes made to this repository.
 
+## How to run it?
+
+- First download zip and extract
+- open folder in vs code and open a terminal. Activate virtual env if possible..
+  ``` pip install -r requirements.txt ```
+- Next run the run.py...
+  ``` python run.py ```
+  
 By using this repository or any code related to it, you agree to these terms. The author is not responsible for any
 copies, forks, or reuploads made by other users. This is the author's only account and repository. To prevent
 impersonation or irresponsible actions, you may comply with the GNU GPL license this Repository uses.
